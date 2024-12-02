@@ -3,7 +3,7 @@
 - 🌱 I’m currently Python, C++, Git, linux
 - 📫 How to reach me: You can send me an email on avighna.srivastava2008@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am trilingual and can apprantly survive on less then 5 hrs of sleep
+- ⚡ Fun fact: I am trilingual and can apparently survive on less then 5 hrs of sleep
 
 <!---
 Phoniexmech2008/Phoniexmech2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
